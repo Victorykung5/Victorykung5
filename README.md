@@ -1,7 +1,6 @@
 ### Hi my name is Thanith Kongsmoot 👋
 welcome to my profies,nice to meet you👋
-contact me:
-https://www.facebook.com/profile.php?id=100008223559147
+
 <!--
 **Victorykung5/Victorykung5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
